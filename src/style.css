@@ -1,0 +1,18 @@
+body {
+    margin: 60px auto;
+    max-width: 800px;
+    text-align: center;
+    background: linear-gradient(to right, rgb(209, 145, 60), rgb(255, 209, 148));
+}
+h1{
+    font-style: initial;
+    font-size: 80px;
+}
+div{
+    margin: 40px;
+    font-style: oblique;
+    font-size: 20px;
+    }
+a{
+    margin: 10px;
+}
